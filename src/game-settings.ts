@@ -1,8 +1,8 @@
 import { BET_CHOICES } from "./constants";
 
 export default {
-    id: 1003,
-    name: "LuckyNext1",
+    id: 1004,
+    name: "LuckyNext2",
     durations: {
         wholeRound: 164,
         placingBets: 15,

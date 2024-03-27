@@ -34,7 +34,7 @@ export default {
     },
     sentry: {
         sentryUrl: "https://3711f3082699411a8716a3221ca1fd9e@sentry.lumigame.com/89",
-        logIdentifier: "LuckNext1",
+        logIdentifier: "LuckNext2",
         env: "LOCAL",
     },
     authenticateSettings: {
