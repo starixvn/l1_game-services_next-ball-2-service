@@ -22,7 +22,7 @@ export default {
     },
     enabledLogs: true,
     database: {
-        url: "mongodb://hotdog_backend:HotdogBackend@10.10.50.12:39400,10.10.50.13:39400,10.10.50.14:39400/?replicaSet=SPLocal0&appName=LuckyNext",
+        url: "mongodb://hotdog_backend:HotdogBackend@10.10.50.12:39400,10.10.50.13:39400,10.10.50.14:39400/?replicaSet=SPLocal0&appName=LuckyNext2",
         options: {
             dbName: "hotdog_minigame",
             useNewUrlParser: true,
@@ -32,7 +32,7 @@ export default {
     },
     sentry: {
         sentryUrl: "https://81e47b9ef0c34ab08c30a8612d9a348e@sentry.lumigame.com/85",
-        logIdentifier: "HD-LuckyNext",
+        logIdentifier: "HD-LuckyNext2",
         env: "LOCAL",
     },
     authenticateSettings: {
